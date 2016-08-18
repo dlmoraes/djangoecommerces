@@ -3,67 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5f16c380-ce23-4d5e-91b8-170a42be61df" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/__init__.py" afterPath="$PROJECT_DIR$/accounts/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/admin.py" afterPath="$PROJECT_DIR$/accounts/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/apps.py" afterPath="$PROJECT_DIR$/accounts/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/backends.py" afterPath="$PROJECT_DIR$/accounts/backends.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/forms.py" afterPath="$PROJECT_DIR$/accounts/forms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/accounts/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/migrations/__init__.py" afterPath="$PROJECT_DIR$/accounts/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/models.py" afterPath="$PROJECT_DIR$/accounts/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/templates/accounts/index.html" afterPath="$PROJECT_DIR$/accounts/templates/accounts/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/templates/accounts/register.html" afterPath="$PROJECT_DIR$/accounts/templates/accounts/register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/templates/accounts/update_password.html" afterPath="$PROJECT_DIR$/accounts/templates/accounts/update_password.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/templates/accounts/update_user.html" afterPath="$PROJECT_DIR$/accounts/templates/accounts/update_user.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/tests.py" afterPath="$PROJECT_DIR$/accounts/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/tests/__init__.py" afterPath="$PROJECT_DIR$/accounts/tests/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/tests/test_views.py" afterPath="$PROJECT_DIR$/accounts/tests/test_views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/urls.py" afterPath="$PROJECT_DIR$/accounts/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/views.py" afterPath="$PROJECT_DIR$/accounts/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/__init__.py" afterPath="$PROJECT_DIR$/catalog/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/admin.py" afterPath="$PROJECT_DIR$/catalog/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/apps.py" afterPath="$PROJECT_DIR$/catalog/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/context_processors.py" afterPath="$PROJECT_DIR$/catalog/context_processors.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/catalog/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/migrations/__init__.py" afterPath="$PROJECT_DIR$/catalog/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/models.py" afterPath="$PROJECT_DIR$/catalog/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/templates/catalog/category.html" afterPath="$PROJECT_DIR$/catalog/templates/catalog/category.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/templates/catalog/product.html" afterPath="$PROJECT_DIR$/catalog/templates/catalog/product.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/templates/catalog/product_list.html" afterPath="$PROJECT_DIR$/catalog/templates/catalog/product_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/tests/__init__.py" afterPath="$PROJECT_DIR$/catalog/tests/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/tests/test_models.py" afterPath="$PROJECT_DIR$/catalog/tests/test_models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/tests/test_views.py" afterPath="$PROJECT_DIR$/catalog/tests/test_views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/urls.py" afterPath="$PROJECT_DIR$/catalog/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/views.py" afterPath="$PROJECT_DIR$/catalog/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/__init__.py" afterPath="$PROJECT_DIR$/core/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/admin.py" afterPath="$PROJECT_DIR$/core/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/apps.py" afterPath="$PROJECT_DIR$/core/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/forms.py" afterPath="$PROJECT_DIR$/core/forms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/migrations/__init__.py" afterPath="$PROJECT_DIR$/core/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/models.py" afterPath="$PROJECT_DIR$/core/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/static/assets/bootstrap.min.css" afterPath="$PROJECT_DIR$/core/static/assets/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/static/assets/bootstrap.min.js" afterPath="$PROJECT_DIR$/core/static/assets/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/static/assets/custom.min.css" afterPath="$PROJECT_DIR$/core/static/assets/custom.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/static/assets/extra.css" afterPath="$PROJECT_DIR$/core/static/assets/extra.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/templates/base.html" afterPath="$PROJECT_DIR$/core/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/templates/contact.html" afterPath="$PROJECT_DIR$/core/templates/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/templates/index.html" afterPath="$PROJECT_DIR$/core/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/templates/login.html" afterPath="$PROJECT_DIR$/core/templates/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/templates/pagination.html" afterPath="$PROJECT_DIR$/core/templates/pagination.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/templates/register.html" afterPath="$PROJECT_DIR$/core/templates/register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/templatetags/__init__.py" afterPath="$PROJECT_DIR$/core/templatetags/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/templatetags/pagination.py" afterPath="$PROJECT_DIR$/core/templatetags/pagination.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/tests/__init__.py" afterPath="$PROJECT_DIR$/core/tests/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/tests/test_views.py" afterPath="$PROJECT_DIR$/core/tests/test_views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/views.py" afterPath="$PROJECT_DIR$/core/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangoecommerce/__init__.py" afterPath="$PROJECT_DIR$/djangoecommerce/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangoecommerce/settings.py" afterPath="$PROJECT_DIR$/djangoecommerce/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangoecommerce/urls.py" afterPath="$PROJECT_DIR$/djangoecommerce/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangoecommerce/wsgi.py" afterPath="$PROJECT_DIR$/djangoecommerce/wsgi.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime.txt" afterPath="$PROJECT_DIR$/runtime.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="venv.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -132,6 +72,7 @@
         <option value="$PROJECT_DIR$/checkout/tests/test_models.py" />
         <option value="$PROJECT_DIR$/checkout/tests/test_views.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -794,6 +735,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
           <folding />
         </state>
       </provider>
