@@ -66,6 +66,7 @@ bin/
 include/
 lib/
 .idea/
+.directory
 pip-selfcheck.json
 
 local_settings.py
